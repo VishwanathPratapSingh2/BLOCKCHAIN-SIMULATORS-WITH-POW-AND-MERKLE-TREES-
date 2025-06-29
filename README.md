@@ -3,8 +3,8 @@
 A minimal implementation of blockchain core concepts with Proof-of-Work and SHA-256 hashing.
 
 ## Features
----Proof-of-Work mining with adjustable difficulty
----SHA-256 cryptographic hashing
----Tamper-proof chain validation
----Merkle Tree for transaction verification
+1)Proof-of-Work mining with adjustable difficulty
+2)SHA-256 cryptographic hashing
+3)Tamper-proof chain validation
+4)Merkle Tree for transaction verification
 
